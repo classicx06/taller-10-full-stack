@@ -6,7 +6,11 @@
 
 <h2>Punto 1: Constantes y Variables</h2>
 
+<img src="./public/images/punto-1.png" alt="punto-1">
+
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
+
+<img src="./public/images/punto-2.png" alt="punto-2">
 
 <h2>Punto 3: Suma de dos números indicados por el usuario</h2>
 
