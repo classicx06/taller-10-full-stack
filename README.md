@@ -22,6 +22,8 @@
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
 
+<img src="./public/images/punto-5.png" alt="punto-5">
+
 <h2>Punto 6: Detección de mayoría de edad</h2>
 
 <h2>Punto 7: Selección de operación aritmética</h2>

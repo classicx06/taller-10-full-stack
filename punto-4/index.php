@@ -8,6 +8,6 @@ $firstName = readline();
 echo "Cool, ahora digita tu primer apellido: ";
 $lastName = readline();
 
-echo "Gracias " . $firstName . " " . $lastName . ", que tengas un genial día"
+echo "Gracias, tu nombre es: " . $firstName . " " . $lastName . ", que tengas un genial día."
 
 ?>
