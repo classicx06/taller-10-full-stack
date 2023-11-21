@@ -26,6 +26,8 @@
 
 <h2>Punto 6: Detección de mayoría de edad</h2>
 
+<img src="./public/images/punto-6.png" alt="punto-6">
+
 <h2>Punto 7: Selección de operación aritmética</h2>
 
 <h2>Punto 8: Entrada a la bolera usando switch</h2>
