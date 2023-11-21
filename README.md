@@ -30,6 +30,10 @@
 
 <h2>Punto 7: Selección de operación aritmética</h2>
 
+<img src="./public/images/punto-7-1.png" alt="punto-7">
+<img src="./public/images/punto-7-2.png" alt="punto-7">
+<img src="./public/images/punto-7-3.png" alt="punto-7">
+
 <h2>Punto 8: Entrada a la bolera usando switch</h2>
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
