@@ -34,11 +34,14 @@
 <img src="./public/images/punto-7-2.png" alt="punto-7">
 <img src="./public/images/punto-7-3.png" alt="punto-7">
 
-
-
 <h2>Punto 8: Entrada a la bolera usando switch</h2>
 
+<img src="./public/images/punto-8-1.png" alt="punto-8">
+<img src="./public/images/punto-8-2.png" alt="punto-8">
+
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
+
+<img src="./public/images/punto-9.png" alt="punto-9">
 
 <h2>Punto 10: Números pares usando while</h2>
 
