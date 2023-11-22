@@ -45,6 +45,9 @@
 
 <h2>Punto 10: Números pares usando while</h2>
 
+<img src="./public/images/punto-10-1.png" alt="punto-10">
+<img src="./public/images/punto-10-2.png" alt="punto-10">
+
 <h2>Punto 11: Número impares usando for</h2>
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
